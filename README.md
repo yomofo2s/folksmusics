@@ -1,7 +1,7 @@
 # Yoruba Traditional Folks Music
 ### [Agogo](https://github.com/yomofo2s/yoruba-folksmusics/blob/main/clock-agogo-time) - Time - Clock
 ### [Ewe Ati Egbo Yoruba](https://github.com/yomofo2s/yoruba-folksmusics/blob/Agogo-Time/herbs-and-spices-in-Yoruba) - Herbs and Spices in Yoruba
-### [Ounka Ede Yoruba] (https://github.com/yomofo2s/yoruba-folksmusics/blob/Agogo-Time/YORUBA%20NUMBERS) - Numbers in Yoruba
+### [Ounka Ede Yoruba](https://github.com/yomofo2s/yoruba-folksmusics/blob/Agogo-Time/YORUBA%20NUMBERS) - Numbers in Yoruba
 ### [Bata mi adun kokoka](https://github.com/yomofo2s/folksmusics/blob/b14b4833c383dc56dda69b52127127d30b679955/Bata%20mi%20a%20dun%20koko%20ka) - FolkMusic By Princess Bumy Olajubu
 ### [Eko dara pupo](https://github.com/yomofo2s/yorubafolksmusics/blob/46b2386152f31e8b82c7202d9fe00bd08f66e561/Eko%20dara%20pupo) - FolkMusic - Education is very important
 ### [Ise Logun Ise](https://github.com/yomofo2s/yorubafolksmusics/blob/46b2386152f31e8b82c7202d9fe00bd08f66e561/Ise%20Logun%20Ise) - Adage - Work is the medicine for povery
